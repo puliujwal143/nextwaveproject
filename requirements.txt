@@ -1,8 +1,19 @@
 streamlit
-streamlit-webrtc
+torch
+torchvision
 opencv-python-headless
 Pillow
 numpy
-av
 matplotlib
+av
+streamlit-webrtc
+aiortc
+aioice
+pyee
+pylibsrtp
+pyopenssl
+cryptography
+dnspython
+google-crc32c
 typing-extensions
+# optional: pyttsx3  <-- remove or keep depending on your deployment
