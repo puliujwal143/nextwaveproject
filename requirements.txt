@@ -1,8 +1,8 @@
 streamlit
-numpy
-Pillow
+streamlit-webrtc
 opencv-python-headless
-matplotlib
-torch
-torchvision
+Pillow
+numpy
 av
+matplotlib
+typing-extensions
