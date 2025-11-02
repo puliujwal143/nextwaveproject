@@ -16,4 +16,4 @@ cryptography
 dnspython
 google-crc32c
 typing-extensions
-# optional: pyttsx3  <-- remove or keep depending on your deployment
+pyttsx3
