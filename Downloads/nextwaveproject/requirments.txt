@@ -1,0 +1,131 @@
+# Core Framework
+streamlit==1.29.0
+
+# Deep Learning
+torch==2.0.1
+torchvision==0.15.2
+
+# Computer Vision & Image Processing
+opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
+Pillow==10.1.0
+av==10.0.0
+
+# Numerical Computing
+numpy==1.24.3
+
+# WebRTC for Real-time Video
+streamlit-webrtc==0.47.1
+aiortc==1.6.0
+aioice==0.9.0
+
+# Text-to-Speech
+pyttsx3==2.90
+
+# Audio Processing (dependencies for pyttsx3)
+pyaudio==0.2.13
+pywin32==306; sys_platform == 'win32'
+
+# Async Support
+aiofiles==23.2.1
+
+# Media Processing
+imageio==2.31.5
+imageio-ffmpeg==0.4.9
+
+# WebRTC Dependencies
+netifaces==0.11.0
+pyee==11.0.1
+pylibsrtp==0.8.0
+
+# Utilities
+attrs==23.1.0
+typing-extensions==4.8.0
+protobuf==4.25.0
+
+# Cryptography (for secure connections)
+cryptography==41.0.7
+pyOpenSSL==23.3.0
+
+# DNS Resolution
+dnspython==2.4.2
+
+# Google STUN Server Support
+google-crc32c==1.5.0
+
+# Additional Streamlit Components
+streamlit-option-menu==0.3.6
+
+# File Handling
+python-magic==0.4.27; sys_platform != 'win32'
+python-magic-bin==0.4.14; sys_platform == 'win32'
+
+# Logging & Monitoring
+loguru==0.7.2
+
+# Configuration Management
+python-dotenv==1.0.0
+
+# Data Validation
+pydantic==2.5.0
+
+# HTTP Requests (for any API calls)
+requests==2.31.0
+urllib3==2.1.0
+
+# JSON Handling
+orjson==3.9.10
+
+# Date/Time Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# System Utilities
+psutil==5.9.6
+
+# Multiprocessing Support
+multiprocess==0.70.15
+
+# Queue Management
+queue==3.0.0
+
+# Threading Utilities
+threadpoolctl==3.2.0
+
+# Memory Management
+pympler==1.0.1
+
+# GPU Memory Management (if using CUDA)
+pynvml==11.5.0
+
+# Video Codecs
+ffmpeg-python==0.2.0
+
+# Color Processing
+colorama==0.4.6
+
+# Progress Bars
+tqdm==4.66.1
+
+# Configuration Files
+pyyaml==6.0.1
+toml==0.10.2
+
+# Caching
+cachetools==5.3.2
+
+# File System Events
+watchdog==3.0.0
+
+# System Information
+platform==1.0.8
+
+# Environment Detection
+distro==1.8.0
+
+# Character Encoding Detection
+chardet==5.2.0
+charset-normalizer==3.3.2
+
+# SSL/TLS Support
+certifi==2023.11.17
