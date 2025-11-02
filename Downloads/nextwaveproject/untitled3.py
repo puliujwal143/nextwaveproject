@@ -18,7 +18,7 @@ import threading
 # 🎨 Page Configuration
 # ======================
 st.set_page_config(
-    page_title="ASL Vision Pro",
+    page_title="Gesture Sense",
     page_icon="🤟",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -858,7 +858,7 @@ def main():
     st.markdown("""
     <div class="hero-container">
         <div class="hero-content">
-            <h1 class="hero-title">🤟 ASL Vision Pro</h1>
+            <h1 class="hero-title">🤟 Gesture Sense</h1>
             <p class="hero-subtitle">Next-Generation AI-Powered Sign Language Recognition</p>
             <div class="hero-badges">
                 <span class="hero-badge">
